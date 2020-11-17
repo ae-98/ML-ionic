@@ -1,0 +1,7 @@
+{
+  "name": "coscosML",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
